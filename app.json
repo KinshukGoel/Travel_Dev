@@ -1,0 +1,17 @@
+{
+  "name": "travel_dev",
+  "displayName": "travel_dev",
+  "expo": {
+    "name": "travel_dev",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
